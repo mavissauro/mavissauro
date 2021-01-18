@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=mavissauro&show_icons=true)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=mavissauro&show_icons=true&theme=dracula&count_private=true)
 
 <!--
 **mavissauro/mavissauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
